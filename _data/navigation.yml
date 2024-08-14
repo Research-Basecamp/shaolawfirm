@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     - title: "About"
       section: about
     - title: "Area Of Practice"
-      section: timeline
+      section: portfolio
     - title: "Our Team"
       section: team
     - title: "Contact"

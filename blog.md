@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: Blogs
 background: grey
 ---
 <h1>Latest Posts</h1>

@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Removal defense in immigration court  deportation proceedings
   subtitle: 
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/portfolio/immigrationcourt.jpg
   
 #what displays when the item is clicked:
 title: Removal defense in immigration court  deportation proceedings

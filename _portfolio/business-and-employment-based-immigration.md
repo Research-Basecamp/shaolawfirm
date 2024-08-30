@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Business and Employment Based Immigration
   subtitle: 
-  thumbnail: assets/img/portfolio/business-immigration.jpg
+  thumbnail: assets/img/portfolio/hightechwork.jpg
   
 #what displays when the item is clicked:
 title: Business and Employment Based Immigration

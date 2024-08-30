@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Family-based Immigration
   subtitle: 
-  thumbnail: assets/img/portfolio/family-based-immigration.jpg
+  thumbnail: assets/img/portfolio/familybased.jpg
   
 #what displays when the item is clicked:
 title: Title

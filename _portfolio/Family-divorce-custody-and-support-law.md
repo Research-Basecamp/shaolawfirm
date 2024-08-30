@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Family, divorce, custody, and support law
   subtitle: 
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/portfolio/familylaw.jpg
   
 #what displays when the item is clicked:
 title: Family, divorce, custody, and support law

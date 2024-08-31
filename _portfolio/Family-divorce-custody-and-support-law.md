@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Family, divorce, custody, and support law
 subtitle: 
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/familylaw.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---

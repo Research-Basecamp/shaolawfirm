@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Business and Employment Based Immigration
 subtitle: 
-image: assets/img/portfolio/business-immigration.jpg #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/hightechwork.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: Business and Employment Based Immigration
 
 ---

@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Removal defense in immigration court  deportation proceedings
 subtitle: 
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/immigrationcourt.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: 
 
 ---

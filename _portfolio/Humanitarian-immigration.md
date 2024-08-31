@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Humanitarian immigration
 subtitle:
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/humanitarian.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: 
 
 ---

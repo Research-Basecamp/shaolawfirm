@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Contract writing, review, and negotiation
   subtitle: 
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/portfolio/misc.jpg
   
 #what displays when the item is clicked:
 title: Contract writing, review, and negotiations
 subtitle: 
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/misc.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: Contract writing, review, and negotiation
 
 
